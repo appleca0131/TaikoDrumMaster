@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Backgrounds">
+        <file>BackGround.jpg</file>
+        <file>Result.jpg</file>
+        <file>StartScreen.jpg</file>
+    </qresource>
+    <qresource prefix="/Drums">
+        <file>BigBlueDrum.png</file>
+        <file>BigRedDrum.png</file>
+        <file>Left.png</file>
+        <file>Right.png</file>
+        <file>Runner.png</file>
+    </qresource>
+</RCC>

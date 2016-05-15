@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Sounds">
+        <file>BackgroundMusic.mp3</file>
+        <file>DrumBeat.mp3</file>
+    </qresource>
+</RCC>
